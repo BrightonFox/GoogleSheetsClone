@@ -1,0 +1,25 @@
+C:\Users\Nick\source\repos\spreadsheet-nvaskelis\Spreadsheet\FormulaEvaluator\bin\Debug\netstandard2.0\FormulaEvaluator.deps.json
+C:\Users\Nick\source\repos\spreadsheet-nvaskelis\Spreadsheet\FormulaEvaluator\bin\Debug\netstandard2.0\FormulaEvaluator.dll
+C:\Users\Nick\source\repos\spreadsheet-nvaskelis\Spreadsheet\FormulaEvaluator\bin\Debug\netstandard2.0\FormulaEvaluator.pdb
+C:\Users\Nick\source\repos\spreadsheet-nvaskelis\Spreadsheet\FormulaEvaluator\obj\Debug\netstandard2.0\FormulaEvaluator.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\spreadsheet-nvaskelis\Spreadsheet\FormulaEvaluator\obj\Debug\netstandard2.0\FormulaEvaluator.AssemblyInfoInputs.cache
+C:\Users\Nick\source\repos\spreadsheet-nvaskelis\Spreadsheet\FormulaEvaluator\obj\Debug\netstandard2.0\FormulaEvaluator.AssemblyInfo.cs
+C:\Users\Nick\source\repos\spreadsheet-nvaskelis\Spreadsheet\FormulaEvaluator\obj\Debug\netstandard2.0\FormulaEvaluator.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\spreadsheet-nvaskelis\Spreadsheet\FormulaEvaluator\obj\Debug\netstandard2.0\FormulaEvaluator.dll
+C:\Users\Nick\source\repos\spreadsheet-nvaskelis\Spreadsheet\FormulaEvaluator\obj\Debug\netstandard2.0\FormulaEvaluator.pdb
+C:\Users\GGlor\Downloads\TeamTeamSpreadsheet-FrontEnd (8)\TeamTeamSpreadsheet-FrontEnd\FrontEnd\FormulaEvaluator\bin\Debug\netstandard2.0\FormulaEvaluator.deps.json
+C:\Users\GGlor\Downloads\TeamTeamSpreadsheet-FrontEnd (8)\TeamTeamSpreadsheet-FrontEnd\FrontEnd\FormulaEvaluator\bin\Debug\netstandard2.0\FormulaEvaluator.dll
+C:\Users\GGlor\Downloads\TeamTeamSpreadsheet-FrontEnd (8)\TeamTeamSpreadsheet-FrontEnd\FrontEnd\FormulaEvaluator\bin\Debug\netstandard2.0\FormulaEvaluator.pdb
+C:\Users\GGlor\Downloads\TeamTeamSpreadsheet-FrontEnd (8)\TeamTeamSpreadsheet-FrontEnd\FrontEnd\FormulaEvaluator\obj\Debug\netstandard2.0\FormulaEvaluator.AssemblyInfoInputs.cache
+C:\Users\GGlor\Downloads\TeamTeamSpreadsheet-FrontEnd (8)\TeamTeamSpreadsheet-FrontEnd\FrontEnd\FormulaEvaluator\obj\Debug\netstandard2.0\FormulaEvaluator.AssemblyInfo.cs
+C:\Users\GGlor\Downloads\TeamTeamSpreadsheet-FrontEnd (8)\TeamTeamSpreadsheet-FrontEnd\FrontEnd\FormulaEvaluator\obj\Debug\netstandard2.0\FormulaEvaluator.csproj.CoreCompileInputs.cache
+C:\Users\GGlor\Downloads\TeamTeamSpreadsheet-FrontEnd (8)\TeamTeamSpreadsheet-FrontEnd\FrontEnd\FormulaEvaluator\obj\Debug\netstandard2.0\FormulaEvaluator.dll
+C:\Users\GGlor\Downloads\TeamTeamSpreadsheet-FrontEnd (8)\TeamTeamSpreadsheet-FrontEnd\FrontEnd\FormulaEvaluator\obj\Debug\netstandard2.0\FormulaEvaluator.pdb
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\FormulaEvaluator\bin\Debug\netstandard2.0\FormulaEvaluator.deps.json
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\FormulaEvaluator\bin\Debug\netstandard2.0\FormulaEvaluator.dll
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\FormulaEvaluator\bin\Debug\netstandard2.0\FormulaEvaluator.pdb
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\FormulaEvaluator\obj\Debug\netstandard2.0\FormulaEvaluator.AssemblyInfoInputs.cache
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\FormulaEvaluator\obj\Debug\netstandard2.0\FormulaEvaluator.AssemblyInfo.cs
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\FormulaEvaluator\obj\Debug\netstandard2.0\FormulaEvaluator.csproj.CoreCompileInputs.cache
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\FormulaEvaluator\obj\Debug\netstandard2.0\FormulaEvaluator.dll
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\FormulaEvaluator\obj\Debug\netstandard2.0\FormulaEvaluator.pdb

@@ -1,0 +1,81 @@
+C:\Users\Nick\source\repos\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\bin\Debug\SpreadsheetGUI.exe.config
+C:\Users\Nick\source\repos\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\bin\Debug\SpreadsheetGUI.exe
+C:\Users\Nick\source\repos\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\bin\Debug\SpreadsheetGUI.pdb
+C:\Users\Nick\source\repos\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\obj\Debug\SpreadsheetGUI.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\obj\Debug\SpreadsheetGUI.Properties.Resources.resources
+C:\Users\Nick\source\repos\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\obj\Debug\SpreadsheetGUI.csproj.GenerateResource.cache
+C:\Users\Nick\source\repos\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\obj\Debug\SpreadsheetGUI.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\obj\Debug\SpreadsheetGUI.exe
+C:\Users\Nick\source\repos\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\obj\Debug\SpreadsheetGUI.pdb
+C:\Users\Nick\source\repos\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\bin\Debug\Spreadsheet.dll
+C:\Users\Nick\source\repos\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\bin\Debug\SpreadsheetPanel.dll
+C:\Users\Nick\source\repos\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\bin\Debug\Formula.dll
+C:\Users\Nick\source\repos\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\bin\Debug\DependencyGraph.dll
+C:\Users\Nick\source\repos\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\bin\Debug\SpreadsheetPanel.pdb
+C:\Users\Nick\source\repos\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\bin\Debug\Spreadsheet.pdb
+C:\Users\Nick\source\repos\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\bin\Debug\Formula.pdb
+C:\Users\Nick\source\repos\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\bin\Debug\DependencyGraph.pdb
+C:\Users\Nick\source\repos\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\obj\Debug\SpreadsheetGUI.csproj.CopyComplete
+C:\Users\Nick\source\repos\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\obj\Debug\SS.Window.resources
+C:\Users\GGlor\Downloads\spreadsheet-nvaskelis\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\bin\Debug\SpreadsheetGUI.exe.config
+C:\Users\GGlor\Downloads\spreadsheet-nvaskelis\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\bin\Debug\SpreadsheetGUI.exe
+C:\Users\GGlor\Downloads\spreadsheet-nvaskelis\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\bin\Debug\SpreadsheetGUI.pdb
+C:\Users\GGlor\Downloads\spreadsheet-nvaskelis\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\bin\Debug\Formula.dll
+C:\Users\GGlor\Downloads\spreadsheet-nvaskelis\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\bin\Debug\Spreadsheet.dll
+C:\Users\GGlor\Downloads\spreadsheet-nvaskelis\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\bin\Debug\SpreadsheetPanel.dll
+C:\Users\GGlor\Downloads\spreadsheet-nvaskelis\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\bin\Debug\DependencyGraph.dll
+C:\Users\GGlor\Downloads\spreadsheet-nvaskelis\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\bin\Debug\Formula.pdb
+C:\Users\GGlor\Downloads\spreadsheet-nvaskelis\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\bin\Debug\SpreadsheetPanel.pdb
+C:\Users\GGlor\Downloads\spreadsheet-nvaskelis\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\bin\Debug\Spreadsheet.pdb
+C:\Users\GGlor\Downloads\spreadsheet-nvaskelis\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\bin\Debug\DependencyGraph.pdb
+C:\Users\GGlor\Downloads\spreadsheet-nvaskelis\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\obj\Debug\SpreadsheetGUI.csprojAssemblyReference.cache
+C:\Users\GGlor\Downloads\spreadsheet-nvaskelis\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\obj\Debug\SS.Window.resources
+C:\Users\GGlor\Downloads\spreadsheet-nvaskelis\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\obj\Debug\SpreadsheetGUI.Properties.Resources.resources
+C:\Users\GGlor\Downloads\spreadsheet-nvaskelis\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\obj\Debug\SpreadsheetGUI.csproj.GenerateResource.cache
+C:\Users\GGlor\Downloads\spreadsheet-nvaskelis\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\obj\Debug\SpreadsheetGUI.csproj.CoreCompileInputs.cache
+C:\Users\GGlor\Downloads\spreadsheet-nvaskelis\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\obj\Debug\SpreadsheetGUI.csproj.CopyComplete
+C:\Users\GGlor\Downloads\spreadsheet-nvaskelis\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\obj\Debug\SpreadsheetGUI.exe
+C:\Users\GGlor\Downloads\spreadsheet-nvaskelis\spreadsheet-nvaskelis\Spreadsheet\SpreadsheetGUI\obj\Debug\SpreadsheetGUI.pdb
+C:\Users\GGlor\Downloads\TeamTeamSpreadsheet-FrontEnd (8)\TeamTeamSpreadsheet-FrontEnd\FrontEnd\SpreadsheetGUI\bin\Debug\SpreadsheetGUI.exe.config
+C:\Users\GGlor\Downloads\TeamTeamSpreadsheet-FrontEnd (8)\TeamTeamSpreadsheet-FrontEnd\FrontEnd\SpreadsheetGUI\bin\Debug\SpreadsheetGUI.exe
+C:\Users\GGlor\Downloads\TeamTeamSpreadsheet-FrontEnd (8)\TeamTeamSpreadsheet-FrontEnd\FrontEnd\SpreadsheetGUI\bin\Debug\SpreadsheetGUI.pdb
+C:\Users\GGlor\Downloads\TeamTeamSpreadsheet-FrontEnd (8)\TeamTeamSpreadsheet-FrontEnd\FrontEnd\SpreadsheetGUI\bin\Debug\Formula.dll
+C:\Users\GGlor\Downloads\TeamTeamSpreadsheet-FrontEnd (8)\TeamTeamSpreadsheet-FrontEnd\FrontEnd\SpreadsheetGUI\bin\Debug\Spreadsheet.dll
+C:\Users\GGlor\Downloads\TeamTeamSpreadsheet-FrontEnd (8)\TeamTeamSpreadsheet-FrontEnd\FrontEnd\SpreadsheetGUI\bin\Debug\SpreadsheetPanel.dll
+C:\Users\GGlor\Downloads\TeamTeamSpreadsheet-FrontEnd (8)\TeamTeamSpreadsheet-FrontEnd\FrontEnd\SpreadsheetGUI\bin\Debug\DependencyGraph.dll
+C:\Users\GGlor\Downloads\TeamTeamSpreadsheet-FrontEnd (8)\TeamTeamSpreadsheet-FrontEnd\FrontEnd\SpreadsheetGUI\bin\Debug\Formula.pdb
+C:\Users\GGlor\Downloads\TeamTeamSpreadsheet-FrontEnd (8)\TeamTeamSpreadsheet-FrontEnd\FrontEnd\SpreadsheetGUI\bin\Debug\SpreadsheetPanel.pdb
+C:\Users\GGlor\Downloads\TeamTeamSpreadsheet-FrontEnd (8)\TeamTeamSpreadsheet-FrontEnd\FrontEnd\SpreadsheetGUI\bin\Debug\Spreadsheet.pdb
+C:\Users\GGlor\Downloads\TeamTeamSpreadsheet-FrontEnd (8)\TeamTeamSpreadsheet-FrontEnd\FrontEnd\SpreadsheetGUI\bin\Debug\DependencyGraph.pdb
+C:\Users\GGlor\Downloads\TeamTeamSpreadsheet-FrontEnd (8)\TeamTeamSpreadsheet-FrontEnd\FrontEnd\SpreadsheetGUI\obj\Debug\SpreadsheetGUI.csprojAssemblyReference.cache
+C:\Users\GGlor\Downloads\TeamTeamSpreadsheet-FrontEnd (8)\TeamTeamSpreadsheet-FrontEnd\FrontEnd\SpreadsheetGUI\obj\Debug\SS.Window.resources
+C:\Users\GGlor\Downloads\TeamTeamSpreadsheet-FrontEnd (8)\TeamTeamSpreadsheet-FrontEnd\FrontEnd\SpreadsheetGUI\obj\Debug\SpreadsheetGUI.Properties.Resources.resources
+C:\Users\GGlor\Downloads\TeamTeamSpreadsheet-FrontEnd (8)\TeamTeamSpreadsheet-FrontEnd\FrontEnd\SpreadsheetGUI\obj\Debug\SpreadsheetGUI.csproj.GenerateResource.cache
+C:\Users\GGlor\Downloads\TeamTeamSpreadsheet-FrontEnd (8)\TeamTeamSpreadsheet-FrontEnd\FrontEnd\SpreadsheetGUI\obj\Debug\SpreadsheetGUI.csproj.CoreCompileInputs.cache
+C:\Users\GGlor\Downloads\TeamTeamSpreadsheet-FrontEnd (8)\TeamTeamSpreadsheet-FrontEnd\FrontEnd\SpreadsheetGUI\obj\Debug\SpreadsheetGUI.csproj.CopyComplete
+C:\Users\GGlor\Downloads\TeamTeamSpreadsheet-FrontEnd (8)\TeamTeamSpreadsheet-FrontEnd\FrontEnd\SpreadsheetGUI\obj\Debug\SpreadsheetGUI.exe
+C:\Users\GGlor\Downloads\TeamTeamSpreadsheet-FrontEnd (8)\TeamTeamSpreadsheet-FrontEnd\FrontEnd\SpreadsheetGUI\obj\Debug\SpreadsheetGUI.pdb
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\SpreadsheetGUI\bin\Debug\SpreadsheetGUI.exe.config
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\SpreadsheetGUI\bin\Debug\SpreadsheetGUI.exe
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\SpreadsheetGUI\bin\Debug\SpreadsheetGUI.pdb
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\SpreadsheetGUI\bin\Debug\ClientNetworking.dll
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\SpreadsheetGUI\bin\Debug\Formula.dll
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\SpreadsheetGUI\bin\Debug\NetworkController.dll
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\SpreadsheetGUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\SpreadsheetGUI\bin\Debug\Spreadsheet.dll
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\SpreadsheetGUI\bin\Debug\SpreadsheetPanel.dll
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\SpreadsheetGUI\bin\Debug\DependencyGraph.dll
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\SpreadsheetGUI\bin\Debug\ClientNetworking.pdb
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\SpreadsheetGUI\bin\Debug\Formula.pdb
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\SpreadsheetGUI\bin\Debug\SpreadsheetPanel.pdb
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\SpreadsheetGUI\bin\Debug\Spreadsheet.pdb
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\SpreadsheetGUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\SpreadsheetGUI\bin\Debug\DependencyGraph.pdb
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\SpreadsheetGUI\obj\Debug\SpreadsheetGUI.csprojAssemblyReference.cache
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\SpreadsheetGUI\obj\Debug\SS.Window.resources
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\SpreadsheetGUI\obj\Debug\SpreadsheetGUI.Properties.Resources.resources
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\SpreadsheetGUI\obj\Debug\SpreadsheetGUI.csproj.GenerateResource.cache
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\SpreadsheetGUI\obj\Debug\SpreadsheetGUI.csproj.CoreCompileInputs.cache
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\SpreadsheetGUI\obj\Debug\SpreadsheetGUI.csproj.CopyComplete
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\SpreadsheetGUI\obj\Debug\SpreadsheetGUI.exe
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\SpreadsheetGUI\obj\Debug\SpreadsheetGUI.pdb

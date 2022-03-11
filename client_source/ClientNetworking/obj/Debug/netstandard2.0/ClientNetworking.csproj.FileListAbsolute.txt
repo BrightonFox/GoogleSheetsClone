@@ -1,0 +1,10 @@
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\ClientNetworking\bin\Debug\netstandard2.0\ClientNetworking.deps.json
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\ClientNetworking\bin\Debug\netstandard2.0\ClientNetworking.dll
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\ClientNetworking\bin\Debug\netstandard2.0\ClientNetworking.pdb
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\ClientNetworking\bin\Debug\netstandard2.0\NetworkController.dll
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\ClientNetworking\obj\Debug\netstandard2.0\ClientNetworking.AssemblyInfoInputs.cache
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\ClientNetworking\obj\Debug\netstandard2.0\ClientNetworking.AssemblyInfo.cs
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\ClientNetworking\obj\Debug\netstandard2.0\ClientNetworking.csproj.CoreCompileInputs.cache
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\ClientNetworking\obj\Debug\netstandard2.0\ClientNetworking.csproj.CopyComplete
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\ClientNetworking\obj\Debug\netstandard2.0\ClientNetworking.dll
+C:\Users\GGlor\Documents\GitHub\TeamTeamSpreadsheet\FrontEnd\ClientNetworking\obj\Debug\netstandard2.0\ClientNetworking.pdb

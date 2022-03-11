@@ -1,0 +1,67 @@
+=================
+Welcome to Bootleg Excel 2.0!
+=================
+
+Here is what you need to get started:
+
+=======
+Top Boxes:
+=======
+
+Cell:
+- Shows the name of the currently selected cell in the spreadsheet. This cannot be edited.
+
+Value:
+- Shows the value of the currently selected cell in the spreadsheet. This cannot be edited. All values can be seen in their respective boxes on spreadsheet below.
+
+Contents:
+- Shows the contents of the currently selected cell in the spreadsheet. This can be edited. To enter formulas, please enter an equals sign ('=') and then the following formula.
+
+Address:
+- Server IP Address input. Put IP Address in this box (port 1100) to connect to a server and access spreadsheets.
+
+Name:
+- Username for server connection to access spreadsheet.
+
+Sheet:
+- Type a sheet name from the given list of sheet names to gain access to that spreadsheet. This box will be disabled until you are connected to a server.
+
+=======
+Connect Button:
+=======
+- This button will connect you to a server with the inputed Address and Name.
+
+=======
+Retrieve Button:
+=======
+- This button will retrieve a spreadsheet given the Spreadsheet name. This button is disabled until you are connected to a server.
+
+=======
+Undo Button:
+=======
+- This button will undo most recent changes.
+
+=======
+Revert Button:
+=======
+- This button will revert a cells most recent change.
+
+=======
+Set Button:
+=======
+- This button will set the contents of the currently selected cell to whatever is entered in the contents box. Changes to the context box will not take effect until this button is pushed.
+
+========
+Progress Bar:
+========
+- On the right hand side, there is progress bar that will show the progress of setting a cell in the spreadsheet. It is not indicative of how much longer the set will take. 
+
+=======
+Help Menu:
+=======
+- Exactly what you are seeing right now! A helpful reference for all of Bootleg Excel's 2.0 functions and elements.
+
+========
+Spreadsheet:
+========
+- The grid that stores your information. Clicking on a cell with the mouse will select that cell. You can also changed the selected cell with the arrow keys. 

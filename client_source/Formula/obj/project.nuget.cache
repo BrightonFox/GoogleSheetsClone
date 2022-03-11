@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oPSImA6PLv8ebWlCvYhkWc3ryyjHHFYmFrqbnMqhXm+UJPPXJNMz9AZ2SCnBA8XDMben9dDKRGf0Q/++gWnmpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GGlor\\Desktop\\client_source\\Formula\\Formula.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GGlor\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\GGlor\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\GGlor\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
